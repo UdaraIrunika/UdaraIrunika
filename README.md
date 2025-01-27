@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Awesome Dev!
+# 👋 Hi there, I'm D. Udara Irunika De Zoysa!
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-💻 Creative Developer & Designer passionate about crafting beautiful digital experiences
-🎓 Currently expanding my knowledge in web development and design
+💻 Creative Developer & Designer passionate about crafting beautiful digital experiences  
+🎓 Currently expanding my knowledge in web development and design  
 🌱 Always learning and exploring new technologies
 
 ## 🎨 Design Skills

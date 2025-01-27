@@ -14,8 +14,8 @@
 ## 🚀 About Me
 
 💻 Creative Developer & Designer passionate about crafting beautiful digital experiences  
-🎓 Currently expanding my knowledge in web development and design  
-🌱 Always learning and exploring new technologies
+🎓 Currently expanding my knowledge in web development & Designing and Graphic Designing Connect with me : +94 764353012  
+🌱 Always learning and exploring new technologies from researching (SELF STUDING) & following
 
 ## 🎨 Design Skills
 

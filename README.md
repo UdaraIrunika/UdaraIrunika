@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@UIDD_7PL)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94764353012)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d.udarairunikade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/d.udarairunikade)
 
 ## 🚀 About Me
@@ -61,7 +61,7 @@
 
 - 📧 Email:[Connect With Gmail] damunizoysa@gmail.com
 - 🌐 Portfolio: [Visit My Portfolio](https://uidd.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
 
 ---
 

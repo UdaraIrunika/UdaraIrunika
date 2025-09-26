@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm D. Udara Irunika De Zoysa!
+# 👋 Hi there, I'm Udara Irunika !
 
 [![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GaNgEJuBY/)

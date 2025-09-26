@@ -60,7 +60,7 @@
 
 ## 🤝 Let's Connect!
 
-- 📧 Email:[Connect With Gmail] damunizoysa@gmail.com
+- 📧 Email:[Connect With Gmail] uiindustryprivetlimited@gmail.com
 - 🌐 Portfolio: [Visit My Portfolio](https://uidd.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
 

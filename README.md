@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C16E&center=true&vCenter=true&width=700&lines=Udara+Irunika!;💻+Creative+Developer;🎨+Designer+%26+Researcher;🔐+Cyber+Security+Student;🚀🌟+Owner+and+Founder+of+the+UI+Designers+%26+Developers;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C16E&center=true&vCenter=true&width=700&lines=Udara+Irunika!;💻+Creative+Developer;🎨+Designer+%26+Researcher;🔐+Cyber+Security+Student;🚀+Owner+and+Founder+of+the+UI+Designers+%26+Developers;)](https://git.io/typing-svg)
 
 ---
 

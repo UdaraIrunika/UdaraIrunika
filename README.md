@@ -25,6 +25,7 @@
   <a href="https://threads.net/d.udarairunikade"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="30" alt="Threads" /></a>
 </p>
 
+<p align="center">
 [![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GaNgEJuBY/)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/DamuniZoys48998)
@@ -35,7 +36,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d.udarairunikade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/d.udarairunikade)
-
+</p>
 ---
 
 ## 🚀 About Me

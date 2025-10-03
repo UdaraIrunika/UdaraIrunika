@@ -4,11 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae" />
-</p>
-
-
 
 
 [![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)
@@ -29,6 +24,13 @@
 🌱 Always learning and exploring new technologies from researching (SELF STUDING) & following
 
 ## 🎨 Design Skills
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae" />
+</p>
+
+
 
 - **Adobe Creative Suite**
   - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) Advanced photo editing & digital art

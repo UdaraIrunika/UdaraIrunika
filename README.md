@@ -9,28 +9,20 @@
 </p>
 
 ## 🏅 GitHub Badges & Achievements
-
-## 🏅 GitHub Badges & Achievements
-
 <p align="center">
-  <!-- Followers -->
+
   <a href="https://github.com/UdaraIrunika?tab=followers" title="Followers"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" alt="GitHub Followers" /></a>
 
-  <!-- Commits -->
   <a href="https://github.com/UdaraIrunika" title="Commits"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" height="30" alt="Commits" /></a>
 
-  <!-- Pull Requests -->
   <a href="https://github.com/UdaraIrunika/pulls" title="Pull Requests"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" height="30" alt="Pull Requests" /></a>
 
-  <!-- Repositories -->
   <a href="https://github.com/UdaraIrunika?tab=repositories" title="Repositories"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/repository.svg" height="30" alt="Repositories" /></a>
 
-  <!-- Stars -->
   <a href="https://github.com/UdaraIrunika?tab=stars" title="Stars"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/starship.svg" height="30" alt="Stars" /></a>
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=radical&no-bg=true&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 

@@ -61,7 +61,7 @@
 ## 💻 Development Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,c,c#,MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,c,sql,cisco" />
 </p>
 
 ### Frontend

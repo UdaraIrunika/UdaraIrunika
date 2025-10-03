@@ -1,5 +1,13 @@
 # 👋 Hi there, I'm  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Udara+Irunika!;💻+Creative+Developer;🎨+Designer;🔐+Cyber+Security+Student)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C16E&center=true&vCenter=true&width=700&lines=Udara+Irunika!;💻+Creative+Developer;🎨+Designer+%26+Researcher;🔐+Cyber+Security+Student;🚀+Owner+of+UI+Designers+%26+Developers;🌟+Founder)](https://git.io/typing-svg)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae" />
+</p>
+
 
 
 

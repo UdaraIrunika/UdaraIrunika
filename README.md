@@ -63,7 +63,7 @@
 ## 🎬 Video Editing  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,ai,ae" />
+  <img src="https://skillicons.dev/icons?i=,capcut,fimora" />
 </p>
 
 - ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white) — Short-form video editing  

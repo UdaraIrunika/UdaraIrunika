@@ -33,9 +33,7 @@
 ## 🎨 Design Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae" />
 </p>
 
 - **Adobe Creative Suite**
@@ -44,11 +42,11 @@
   - ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white) Motion graphics & animation
 
 ----------------
-### 🎬 Video Editing
 <p align="center">
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filmora-20B2AA?style=for-the-badge&logo=wondershare&logoColor=white" />
+  <img src="https://seeklogo.com/images/C/capcut-logo-1A3E4A2E61-seeklogo.com.png" height="50" alt="CapCut" />
+  <img src="https://seeklogo.com/images/W/wondershare-filmora-logo-ADCF23E561-seeklogo.com.png" height="50" alt="Filmora" />
 </p>
+
 
 
 - **Video Editing**

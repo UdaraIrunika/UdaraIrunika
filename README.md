@@ -8,6 +8,31 @@
   <img src="https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg" height="200" />
 </p>
 
+## 🏅 GitHub Badges & Achievements
+
+<p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/UdaraIrunika?style=for-the-badge" alt="GitHub Followers" />
+  
+  <!-- Total commits -->
+  <img src="https://img.shields.io/github/commit-activity/m/UdaraIrunika?style=for-the-badge" alt="GitHub Commits" />
+  
+  <!-- Pull Requests -->
+  <img src="https://img.shields.io/github/issues-pr/UdaraIrunika?style=for-the-badge" alt="Pull Requests" />
+  
+  <!-- Repos -->
+  <img src="https://img.shields.io/github/repos/UdaraIrunika?style=for-the-badge" alt="Repositories" />
+  
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/UdaraIrunika?style=for-the-badge" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=radical&no-bg=true&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+
 ---
 
 ## 🌐 Socials

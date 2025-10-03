@@ -5,7 +5,9 @@
 ---
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae"](https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg) />
+  <a href="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae">
+    <img src="https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg" height="200" />
+  </a>
 </p>
 
 ---

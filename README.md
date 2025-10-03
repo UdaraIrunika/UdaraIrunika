@@ -31,11 +31,14 @@
 🌱 Always learning and exploring new technologies from researching (SELF STUDING) & following
 
 ## 🎨 Design Skills
-
-
+----------------
+### 🎨 Graphic Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
 </p>
+----------------
 
 
 
@@ -44,12 +47,25 @@
   - ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) Vector graphics & logo design
   - ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white) Motion graphics & animation
 
+----------------
+### 🎬 Video Editing
+<p align="center">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filmora-20B2AA?style=for-the-badge&logo=wondershare&logoColor=white" />
+</p>
+
+----------------
+
 - **Video Editing**
   - ![CapCut](https://img.shields.io/badge/CapCut-00C16E?style=flat&logo=capcut&logoColor=white) Video editing & content creation
   - ![Filmora](https://img.shields.io/badge/Filmora-20B2AA?style=flat&logo=wondershare&logoColor=white) Video editing & creative storytelling
 
 ## 💻 Development Skills
-
+------
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae" />
+</p>
+------
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)

@@ -4,6 +4,11 @@
 
 ---
 
+<p align="center">
+  <img src="[https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,arduino,photoshop,illustrator,ae"](https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg) />
+</p>
+
+---
 
 
 [![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)

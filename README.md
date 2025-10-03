@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Udara Irunika !
+# 👋 Hi there, I'm  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C16E&center=true&vCenter=true&width=435&lines=Udara+Irunika!;Creative+Developer;Designer+%26+Researcher;Cyber+Security+Student)](https://git.io/typing-svg)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GaNgEJuBY/)

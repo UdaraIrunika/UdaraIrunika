@@ -26,6 +26,7 @@
 
 - **Video Editing**
   - ![CapCut](https://img.shields.io/badge/CapCut-00C16E?style=flat&logo=capcut&logoColor=white) Video editing & content creation
+  - ![Filmora](https://img.shields.io/badge/Filmora-20B2AA?style=flat&logo=wondershare&logoColor=white) Video editing & creative storytelling
 
 ## 💻 Development Skills
 
@@ -44,6 +45,7 @@
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=flat&logo=pascal&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
 

@@ -12,16 +12,19 @@
 
 ## 🌐 Socials
 
-[![GitHub followers](https://img.shields.io/github/followers/UdaraIrunika?label=Follow&style=social)](https://github.com/UdaraIrunika)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GaNgEJuBY/)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/DamuniZoys48998)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@rr_favor)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@uidd.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@UIDD_7PL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94764353012)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d.udarairunikade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/d.udarairunikade)
+<p align="center">
+  <a href="https://github.com/UdaraIrunika"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/share/1GaNgEJuBY/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" alt="Facebook" /></a>
+  <a href="https://x.com/DamuniZoys48998"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" alt="X" /></a>
+  <a href="https://tiktok.com/@rr_favor"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" alt="TikTok" /></a>
+  <a href="https://tiktok.com/@uidd.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" alt="TikTok" /></a>
+  <a href="https://t.me/@UIDD_7PL"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" alt="Telegram" /></a>
+  <a href="https://wa.me/+94764353012"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" alt="WhatsApp" /></a>
+  <a href="https://instagram.com/d.udarairunikade"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" alt="LinkedIn" /></a>
+  <a href="https://threads.net/d.udarairunikade"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="30" alt="Threads" /></a>
+</p>
+
 
 ---
 
@@ -49,8 +52,7 @@
 ## 🎬 Video Editing  
 
 <p align="center">
-  <img src="https://seeklogo.com/images/C/capcut-logo-1A3E4A2E61-seeklogo.com.png" height="50" alt="CapCut" />
-  <img src="https://seeklogo.com/images/W/wondershare-filmora-logo-ADCF23E561-seeklogo.com.png" height="50" alt="Filmora" />
+  <img src="https://skillicons.dev/icons?i=,ai,ae" />
 </p>
 
 - ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white) — Short-form video editing  

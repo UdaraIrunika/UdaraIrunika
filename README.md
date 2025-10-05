@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg" height="200" />
   ---
-  <img src="https://github.com/user-attachments/assets/8c9b41f3-98ba-4e41-b9d7-aec98fd55066.jpg" height="200" />
+  ![WhatsApp Image 2025-01-16 at 18 09 41_d12d5c16](https://github.com/user-attachments/assets/feb096d0-d706-409f-82e9-34fd6966385b)
 
 </p>
 

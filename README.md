@@ -6,6 +6,9 @@
 
 <p align="center">
   <img src="https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg" height="200" />
+  ---
+  <img src="https://github.com/user-attachments/assets/8c9b41f3-98ba-4e41-b9d7-aec98fd55066.jpg" height="200" />
+
 </p>
 
 

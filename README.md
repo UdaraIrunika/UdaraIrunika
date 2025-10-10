@@ -7,11 +7,9 @@
 <p align="center">
   <img src="https://github.com/UdaraIrunika/UdaraIrunika/blob/main/491727181_683172997493010_5522556684250959284_n.jpg" height="200" alt="Profile Image" />
   <br>
-  <img src="https://github.com/user-attachments/assets/feb096d0-d706-409f-82e9-34fd6966385b" height="200" alt="WhatsApp Image" />
+  <img src="https://github.com/user-attachments/assets/1855b749-c90d-4492-8504-2e3b43ab8d10" height="200" alt="WhatsApp Image" />
 </p>
 
-
-![WhatsApp Image 2025-01-16 at 18 09 41_d12d5c16](https://github.com/user-attachments/assets/1855b749-c90d-4492-8504-2e3b43ab8d10)
 
 
 ---

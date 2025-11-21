@@ -60,24 +60,18 @@
 ```yaml
 name: Udara Irunika De Zoysa
 located_in: Sri Lanka 🇱🇰
-current_role: Founder @ UI Designers & Developers
-education: Cyber Security Student
+current_role: Owner & Founder @ UI Designers & Developers
 
 fields_of_interest:
-  - Web Development
-  - UI/UX Design
-  - Cyber Security
-  - Motion Graphics
-  
-currently_learning:
-  - Advanced React Patterns
-  - Penetration Testing
-  - Cloud Security
+  - 💻 Creative Developer & Designer
+  - 🎓 Cyber Security Student
+  - 🌐 Web Developer
+  - 🔬 Researcher
 
-hobbies:
-  - Creative Coding
-  - Video Editing
-  - Research & Innovation
+passion: Crafting beautiful digital experiences
+
+motto: Lifelong learner — exploring new 
+       technologies through research & projects
 ```
 
 <br clear="both">
@@ -179,14 +173,14 @@ hobbies:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UdaraIrunika&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Udara Irunika github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UdaraIrunika&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Udara Irunika github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraIrunika&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=7" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraIrunika&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="streak stats"/>
+  <img width="90%" src="https://streak-stats.demolab.com/?user=UdaraIrunika&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="streak stats"/>
 </div>
 
 <br>

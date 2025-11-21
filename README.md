@@ -60,18 +60,24 @@
 ```yaml
 name: Udara Irunika De Zoysa
 located_in: Sri Lanka 🇱🇰
-current_role: Owner & Founder @ UI Designers & Developers
+current_role: Founder @ UI Designers & Developers
+education: Cyber Security Student
 
 fields_of_interest:
-  - 💻 Creative Developer & Designer
-  - 🎓 Cyber Security Student
-  - 🌐 Web Developer
-  - 🔬 Researcher
+  - Web Development
+  - UI/UX Design
+  - Cyber Security
+  - Motion Graphics
+  
+currently_learning:
+  - Advanced React Patterns
+  - Penetration Testing
+  - Cloud Security
 
-passion: Crafting beautiful digital experiences
-
-motto: Lifelong learner — exploring new 
-       technologies through research & projects
+hobbies:
+  - Creative Coding
+  - Video Editing
+  - Research & Innovation
 ```
 
 <br clear="both">

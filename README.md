@@ -200,7 +200,7 @@ motto: Lifelong learner — exploring new
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 <br>

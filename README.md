@@ -200,7 +200,22 @@ motto: Lifelong learner — exploring new
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraIrunika&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" alt="Trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  
+<!-- Alternative: GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UdaraIrunika&theme=tokyonight" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UdaraIrunika&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UdaraIrunika&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UdaraIrunika&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
 </div>
 
 <br>
